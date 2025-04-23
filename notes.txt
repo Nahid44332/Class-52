@@ -1,0 +1,12 @@
+
+contstructor => __costruct();
+destructor => __destruct();
+
+inheritance
+Parents -> Child
+
+Access Modifiar
+
+public => The property or method can be Accessed from everywher .This is Defalt.
+protected => The property or method can be Accessed within the class and by classess derived from the class.
+private => The property or method can be Accessed within the class.
